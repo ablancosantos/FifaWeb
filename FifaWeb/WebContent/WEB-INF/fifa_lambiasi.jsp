@@ -4,11 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Inicio</title>
+<title> Pagina 2</title>
 </head>
 <body>
-<h1> Gonzalo Nicolás Núñez Lambiasi </h1>
-<a href="fifa_lambiasi.jsp"> Link a la pagina 2</a>
+<h1> Andres Iniesta</h1>
 
 </body>
 </html>
