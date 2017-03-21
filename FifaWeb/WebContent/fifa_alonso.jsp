@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Alberto Taín Alonso</h1>
-<a href="fifa_alonso.jsp">Iago Aspas</a>
+<h1>Iago Aspas</h1>
 </body>
 </html>
