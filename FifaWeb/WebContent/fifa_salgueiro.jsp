@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Nicolas cortizo salgueiro</h1>
-	<br>
-	<a href="fifa_salgueiro.jsp">Acceso a salgueiro.jsp</a>
+	<h1>Iago Aspas</h1>
 </body>
 </html>
