@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>fifa lopez</title>
+<title>fifa rodriguez</title>
 </head>
 <body>
-	<h1>Alberto López Rodríguez</h1>
-	<a href="fifa_rodriguez.jsp">Enlace al perfil de Gaizka Toquero</a>
+	<h1>Gaizka Toquero Pinedo</h1>
 </body>
 </html>
