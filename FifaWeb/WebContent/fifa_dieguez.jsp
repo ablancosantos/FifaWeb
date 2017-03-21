@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Marcos García Diéguez</h1></br>
-	<a href="fifa_dieguez.jsp">Siguente</a>
+	<h1>Mario Götze</h1>
 </body>
 </html>
